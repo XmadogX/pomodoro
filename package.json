@@ -12,7 +12,7 @@
     "@material-ui/icons": "^4.9.1",
     "@types/react-beautiful-dnd": "^13.0.0",
     "@types/shortid": "0.0.29",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "next": "9.4.4",
     "next-assets-import": "0.0.2",
     "next-images": "^1.4.0",
